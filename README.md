@@ -1,3 +1,3 @@
 # Crowd-Emotion-Recognition
 
-<img src="emo.gif" width="320" height="200"></img>
+<img src="emo.gif" width="640" height="400"></img>
