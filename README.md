@@ -10,8 +10,8 @@ Emotion Detection is a very improtant problem in the domain of advertisement as 
 
 This project was aimed to develop a machine learning model for emotion detection of crowd using Deep Convolution Neural Network. The model contains 2 components:
 
-1. Facenet: This componnet is a pretrained model which uses Inception architecture for finding the faces in the images and generate bounding box coordiantes.
-2. Emotion Classifier: It takes the cropped bounding box images as input and then perform emotion detection on the image to identify 7 emotions(). Additionally, the model also predicts the crowd emotion as a whole.
+1. FaceNet: This componnet is a pretrained model which uses Inception architecture for finding the faces in the images and generate bounding box coordiantes.
+2. Emotion Classifier: It takes the cropped bounding box images as input and then perform emotion detection on the image to identify 7 emotions. Additionally, the model also predicts the crowd emotion as a whole.
 
 **Setup**<br>
 <br>Following libraries need to be installed<br>
