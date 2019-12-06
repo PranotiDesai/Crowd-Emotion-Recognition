@@ -10,7 +10,7 @@ Emotion Detection is a very improtant problem in the domain of advertisement as 
 1) Movie Theatre: This model would work best for getting the reviews about a movie when setup in a theatre.
 2) Classrooms: The emotions of the students recorded during the lecture could be a great feedback for a professor to understand how effective his/her teaching is and to restructure the course, lectures accordingly.
 3) IT Companies: Employee feedback
-4) A crucial application of this model could be in Health Care in understanding the facial expressions of a patient and to intimate the doctors/physicians about the emergency situations.
+4) A crucial application of this model could be in Health Care in understanding the facial expressions of a patient and to notify the doctors/physicians about the emergency situations.
 
 **Model**
 
