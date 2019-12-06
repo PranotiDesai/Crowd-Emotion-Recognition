@@ -1,6 +1,8 @@
-# Crowd-Emotion-Recognition
+## Crowd-Emotion-Recognition
 
-**Ovewview**
+<img src="emo.gif" width="640" height="400"></img>
+
+**Overview**
 
 Emotion Detection is a very improtant problem in the domain of advertisement as it can help the advertisement agency for choosing what to advertise during any occasion. Advertisement agencies spend millions of dollars to run a 30sec ad during the Super Bowl Sunday game. So it is very important to know the emotional state of the viewers when they are watching the game, so that the companies could display the ad as per the emotional state of the viewers at that very moment. Marketing companies and business owners spend a lot of money to analyze consumer feedback to products and services. Till date, surveys and reviews are the usual methods to gain the feedbacks but they are inaccurate and slow.
 
@@ -33,6 +35,8 @@ This project was aimed to develop a machine learning model for emotion detection
 
 
 
-<img src="emo.gif" width="640" height="400"></img>
+
+
+
 
 
