@@ -1,3 +1,3 @@
 # Crowd-Emotion-Recognition
 
-<video src="emo.mp4" width="320" height="200" controls preload></video>
+<img src="emo.gif" width="320" height="200"></img>
